@@ -1,0 +1,8 @@
+{
+  "name": "Remix Kathy Mỹ Ngọc Huỳnh — Portfolio Cá Nhân",
+  "description": "Website cá nhân của Kathy Mỹ Ngọc Huỳnh — Sinh viên hệ Vừa Làm Vừa Học tại UEH Mekong, kinh doanh tạp hóa quy mô lớn tại Đồng Tháp, yêu thích đọc sách, nghe nhạc và không gian tĩnh lặng.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
